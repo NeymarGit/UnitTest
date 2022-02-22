@@ -1,0 +1,25 @@
+{
+  "code": "200",
+  "message": "",
+  "data": [
+    {
+      "name": "明治佰乐益优免费券",
+      "productCd": "P162762944434181729",
+      "inventory": 42189,
+      "ruleUserLevelCd": 2,
+      "jxPrice": 0,
+      "zxPrice": 8,
+      "picUrl": "https://fmapp-cos.chinafamilymart.com.cn/image/20210729/1627523104996/7100018311.jpg",
+      "subTitle": "",
+      "inventoryNum": 100000,
+      "gainNum": 3225,
+      "couponStatusCd": 3,
+      "showInfiniCd": 1,
+      "priceShow": 0,
+      "vouchersChannelCd": 1,
+      "isDayInventoryFlag": 1,
+      "ruleCities": "上海,苏州,杭州,无锡,嘉兴",
+      "remindFlag": 0
+    }
+  ]
+}

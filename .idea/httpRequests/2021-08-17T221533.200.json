@@ -1,0 +1,63 @@
+{
+  "code": "200",
+  "message": "",
+  "data": [
+    {
+      "name": "满65元立减15元代金券",
+      "productCd": "P162901623162109322",
+      "inventory": 784190,
+      "ruleUserLevelCd": 2,
+      "jxPrice": 0,
+      "zxPrice": 2,
+      "picUrl": "https://fmapp-cos.chinafamilymart.com.cn/image/20210815/1629016221108/65-15.jpg",
+      "subTitle": "",
+      "inventoryNum": 800000,
+      "gainNum": 6331,
+      "couponStatusCd": 1,
+      "showInfiniCd": 1,
+      "priceShow": 0,
+      "vouchersChannelCd": 3,
+      "isDayInventoryFlag": 1,
+      "ruleCities": "上海",
+      "remindFlag": 0
+    },
+    {
+      "name": "满39元立减10元代金券",
+      "productCd": "P162626012320457533",
+      "inventory": 3589771,
+      "ruleUserLevelCd": 2,
+      "jxPrice": 0,
+      "zxPrice": 1,
+      "picUrl": "https://fmapp-cos.chinafamilymart.com.cn/image/20210714/1626271704092/39-10主图.jpg",
+      "subTitle": "",
+      "inventoryNum": 4160000,
+      "gainNum": 17467,
+      "couponStatusCd": 1,
+      "showInfiniCd": 1,
+      "priceShow": 0,
+      "vouchersChannelCd": 3,
+      "isDayInventoryFlag": 1,
+      "ruleCities": "上海",
+      "remindFlag": 0
+    },
+    {
+      "name": "明治佰乐益优免费券",
+      "productCd": "P162762944434181729",
+      "inventory": 45414,
+      "ruleUserLevelCd": 2,
+      "jxPrice": 0,
+      "zxPrice": 8,
+      "picUrl": "https://fmapp-cos.chinafamilymart.com.cn/image/20210729/1627523104996/7100018311.jpg",
+      "subTitle": "",
+      "inventoryNum": 100000,
+      "gainNum": 3225,
+      "couponStatusCd": 3,
+      "showInfiniCd": 1,
+      "priceShow": 0,
+      "vouchersChannelCd": 1,
+      "isDayInventoryFlag": 1,
+      "ruleCities": "上海,苏州,杭州,无锡,嘉兴",
+      "remindFlag": 0
+    }
+  ]
+}

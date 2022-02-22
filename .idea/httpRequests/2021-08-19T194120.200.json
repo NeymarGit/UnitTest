@@ -1,0 +1,17 @@
+{
+  "code": "200",
+  "message": "成功",
+  "data": {
+    "miliBanlance": 2,
+    "imgUrl": "https://fmapp-cos.chinafamilymart.com.cn/image/20210802/1627899430544/WechatIMG238.jpeg",
+    "price": 1,
+    "inventory": 100982,
+    "limitNum": 8,
+    "subTitle": "每人限兑10张",
+    "tagsList": [],
+    "ruleCities": null,
+    "remindFlag": null,
+    "startDate": "2021.08.02",
+    "endDate": "2021.08.31"
+  }
+}

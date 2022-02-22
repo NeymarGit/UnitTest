@@ -1,0 +1,23 @@
+{
+  "code": "200",
+  "message": "",
+  "data": {
+    "token": "eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jjtqAzEQhq9ipl7BSpoZzeoGaVKkVqONJLzBhsWyIcS4T5Uu4DKQI6RNbmMHfIusHbv7n_Bt4Wk9gIecjCQpolKyvUJHpDqRTrUiQiaXlo2BBuqmn8bbAJuaV_dxmQP4AMfX_Wn_dfh5n50-334_vgM0_4u7dOmROLLDgo9OU8faEVrHnIgRLTuHkQsXq9mStsmmyz-O4_U-KdUPLwF2E8FQ60Rwjc4-rsFrNl2rbUvSQH4ewaMx-hYM9SGXVa5z8CUuat79AQAA__8.qKnR-PZ4Yd5yoGUjLy21I3RP_sv3Uj7DLv5OZAJ54H529K774YDsc7PyQ8FFpe6eQZ2edIVpGkDHxFRAkpKOKQ",
+    "phoneNumber": null,
+    "memberCode": "456a674f4c7159617543766d564436774a6f6f3163513d3d",
+    "bindId": null,
+    "lastName": "刘阳何",
+    "realName": "刘阳何 风格",
+    "genderCd": 1,
+    "birthday": "1997-07-13 00:00:00",
+    "picUrl": "https://fmapp-cos.chinafamilymart.com.cn/image/20200629/1593397444392/default-pic.png",
+    "nickName": "Neymar",
+    "firstLoginFlag": false,
+    "perfectInfoFlag": false,
+    "open3rd": null,
+    "zxMemberFlag": true,
+    "activityId": "163",
+    "sk": "cie7d8iykjba5wwo63i",
+    "brand": true
+  }
+}

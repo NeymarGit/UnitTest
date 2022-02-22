@@ -1,0 +1,9 @@
+{
+  "code": "200",
+  "message": "成功",
+  "data": {
+    "orderNo": "O162937385749518324",
+    "placeDate": "2021/08/19 19:50:57",
+    "collectedQuantity": null
+  }
+}
