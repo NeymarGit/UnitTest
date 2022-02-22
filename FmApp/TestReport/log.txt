@@ -1,0 +1,22 @@
+2021-08-27 21:58:20,904 - DEBUG - Logger.py - lyh - 日志信息: debgu信息
+2021-08-27 22:01:13,640 - DEBUG - Logger.py - lyh - 日志信息: debgu信息
+2021-08-27 22:01:13,640 - INFO - Logger.py - lyh - 日志信息: info信息
+2021-08-27 22:01:13,640 - WARNING - Logger.py - lyh - 日志信息: warning息
+2021-08-27 22:01:13,640 - ERROR - Logger.py - lyh - 日志信息: error信息
+2021-08-27 22:07:34,666 - INFO - Logger.py - lyh - 日志信息: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jUFuwjAQRa-CZh1L8cx4nPgGbLpg7U0cT9RURYpikCoQC-7QE_QAXIHTVOUYpJTu_v_vf_0jvO1GCJAtcqOcjbAmw9KQaT2SQZ_61vYDJmGooOzTUj5G2BedX7qtRggRbl_n1ffl_HP9jFD9sXV-EM7iXUvs0NVMTNJz45woqxNHImx58OzRW7aUKT_23TQ954syaTxEOC3fYynL9zP69d0OghWqa0_opAL9mCAwIv4HY9noMGt5hTB070VPdwAAAP__.Ovo9aqSWyIeh1GcFAxhYjl-3MCQxUQxDJGzF1NnBjXKwjYP4wJJlGKZ3mfHbT_8Jl1L2Hwg-mUwedGXSDXg-GA
+2021-08-27 22:07:35,469 - ERROR - Logger.py - lyh - 日志信息: test_login执行不通过
+2021-08-27 22:07:36,465 - ERROR - Logger.py - lyh - 日志信息: test_miliExchange执行不通过
+2021-08-27 22:10:18,155 - DEBUG - D:\Python\Study\FmApp\Utils\Logger.py[line:32] - Logger.py - lyh - 日志信息: debug信息
+2021-08-27 22:10:41,184 - DEBUG - D:\Python\Study\FmApp\Utils\Logger.py[line:32] - Logger.py - lyh - 日志信息: debug信息
+2021-08-27 22:10:41,184 - INFO - D:\Python\Study\FmApp\Utils\Logger.py[line:34] - Logger.py - lyh - 日志信息: info信息
+2021-08-27 22:10:41,184 - WARNING - D:\Python\Study\FmApp\Utils\Logger.py[line:36] - Logger.py - lyh - 日志信息: warning息
+2021-08-27 22:10:41,184 - ERROR - D:\Python\Study\FmApp\Utils\Logger.py[line:38] - Logger.py - lyh - 日志信息: error信息
+2021-08-27 22:11:41,302 - INFO - D:\Python\Study\FmApp\Utils\Logger.py[line:34] - Logger.py - lyh - 日志信息: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0TstNAzEUbAW981qy_T7euAMuHDj74l0_i0UgreJEihLlkB6ogAJoIdVEUAabBG7z1cwBXjcTRMhWCEcm46xWQwNn0ztZmdH1JXAdRpEAHbTtsIQPCbZN10_5XRPEBD-fp4fL1-n7_JGgu3uP5eZQkcArJPZsCQllpJ5ZlJSFUYQc1UDBB0cOC5ZbP8_zX31BZpj2CY7L9tTa9ehduvK8gegErQ3IFjvQ3QyRvPf_wtSeta61vUCs-a3p8RcAAP__.E3b1fHDDhDUBw7vBiJZVo-E38t0Dqrl1uQu4HVC9KoPRfriZO1S8l9IIZKMiFKptneZJitUhh47p6hhbGC9pJg
+2021-08-27 22:11:41,866 - ERROR - D:\Python\Study\FmApp\Utils\Logger.py[line:38] - Logger.py - lyh - 日志信息: test_login执行不通过
+2021-08-27 22:11:42,875 - ERROR - D:\Python\Study\FmApp\Utils\Logger.py[line:38] - Logger.py - lyh - 日志信息: test_miliExchange执行不通过
+2021-09-16 23:13:28,431 - INFO - D:\Python\Study\FmApp\Utils\Logger.py[line:34] - Logger.py - lyh - 日志信息: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jc1NAzEUhFtB77yW1u_HNu6ACwfOvjzHb8UikFZxIiGiHNIDFVAALVANgjJYQrjNzDejOcDDboYMNSFP3NhpberYY3Tq1VxqIwphrbZRGKDv61o-FNh3297qkxXIBb7fTlef76evj9cCwx-7aWfCLUS5JhaUkYkpbDiJBGOTIBQCe54iR4yePTVq570uy2W-KlfnlwLH9Xvuff2-RL9ed5B9IJ9GwTENYM8LZEak_2DudzZtrd9DnvSx2_EHAAD__w.5h9snkHt5DrAbAzYUYXwDDqU-T-esLaVwYzN2KKjfjyXrYe5RJeG40DWRrh7K7BGxxZi80ajhvPZXipd3jGcig
+2021-09-16 23:13:29,201 - ERROR - D:\Python\Study\FmApp\Utils\Logger.py[line:38] - Logger.py - lyh - 日志信息: test_login执行不通过
+2021-09-16 23:13:30,167 - ERROR - D:\Python\Study\FmApp\Utils\Logger.py[line:38] - Logger.py - lyh - 日志信息: test_miliExchange执行不通过
+2021-10-26 20:44:33,425 - INFO - D:\Python\Study\FmApp\Utils\Logger.py[line:34] - Logger.py - lyh - 日志信息: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0TcttAjEQbSWa81rCnvEYuwMuHDj74s-sslEirTBICMSBHlJBCkgLqSYKZeAQcnv_d4KX3QQBFr5UTNqrDrwiW6vyuRRVCzpm0c7lDAO0fe7hU4R9k-06vUmEEOH6cXn6_rz8fL1HGP68Vb07VNlZj2SNXRAScqGltSwkli0yk6bRkTNOk8aK9d5P8_yod6TydIxw7t9Ta_37If3ytIOgGfu2MUszgBxmCGSM-xemtpFxK-0Zwphem5xvAAAA__8.82rv6VOliaMQfjBQ78rlZ51QefZP8t3zJfuvP95hFrDGnYYHAEtEM4dkpo2va6AWDdqYZT9QbToCa_owEEJAGA
+2021-10-26 20:44:33,847 - ERROR - D:\Python\Study\FmApp\Utils\Logger.py[line:38] - Logger.py - lyh - 日志信息: test_login执行不通过
+2021-10-26 20:44:34,488 - ERROR - D:\Python\Study\FmApp\Utils\Logger.py[line:38] - Logger.py - lyh - 日志信息: test_miliExchange执行不通过

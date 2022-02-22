@@ -1,0 +1,843 @@
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jjFLBDEQhf-KTL2By2Yms8k_sLGwTpPdmeCKwnK5A_G4WjsLa8HG2l-14M8w3p3winlvvgfvAPe7GSKUYRItwiazLQZHVTMSiQk6iE6TFRWGDup-bPAhwb7q9iY_aoKYYH1_Petqfflc375-vj8SdGfoWk6ID16JmBAd-gEzevKofmLPzBsM2HNuHyJH1omTUz8vy6XeLjPOzwmObcRcaxtxif583kG0vg-O_SZgB_q0QMS-t__BXG-1bLXeQSz5oerxFwAA__8.gApU710hhOd43-OSv7mflLu08_WsW03KURr3Vodi5aMoqfymJp1va9tyV9Gu1yqn7NyhHm6f9lTgOVlsndtneg
+Content-Type: application/json
+
+{
+  "num": 2000,
+  "productCd": "P162789964665237522",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T203143.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jjFLBDEQhf-KTL2By2Yms8k_sLGwTpPdmeCKwnK5A_G4WjsLa8HG2l-14M8w3p3winlvvgfvAPe7GSKUYRItwiazLQZHVTMSiQk6iE6TFRWGDup-bPAhwb7q9iY_aoKYYH1_Petqfflc375-vj8SdGfoWk6ID16JmBAd-gEzevKofmLPzBsM2HNuHyJH1omTUz8vy6XeLjPOzwmObcRcaxtxif583kG0vg-O_SZgB_q0QMS-t__BXG-1bLXeQSz5oerxFwAA__8.gApU710hhOd43-OSv7mflLu08_WsW03KURr3Vodi5aMoqfymJp1va9tyV9Gu1yqn7NyhHm6f9lTgOVlsndtneg
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789964665237522",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T203104.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jjFLBDEQhf-KTL2By2Yms8k_sLGwTpPdmeCKwnK5A_G4WjsLa8HG2l-14M8w3p3winlvvgfvAPe7GSKUYRItwiazLQZHVTMSiQk6iE6TFRWGDup-bPAhwb7q9iY_aoKYYH1_Petqfflc375-vj8SdGfoWk6ID16JmBAd-gEzevKofmLPzBsM2HNuHyJH1omTUz8vy6XeLjPOzwmObcRcaxtxif583kG0vg-O_SZgB_q0QMS-t__BXG-1bLXeQSz5oerxFwAA__8.gApU710hhOd43-OSv7mflLu08_WsW03KURr3Vodi5aMoqfymJp1va9tyV9Gu1yqn7NyhHm6f9lTgOVlsndtneg
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789926698900818",
+  "cityCd": "北京"
+}
+
+<> 2021-08-19T203051.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jjFLBDEQhf-KTL2By2Yms8k_sLGwTpPdmeCKwnK5A_G4WjsLa8HG2l-14M8w3p3winlvvgfvAPe7GSKUYRItwiazLQZHVTMSiQk6iE6TFRWGDup-bPAhwb7q9iY_aoKYYH1_Petqfflc375-vj8SdGfoWk6ID16JmBAd-gEzevKofmLPzBsM2HNuHyJH1omTUz8vy6XeLjPOzwmObcRcaxtxif583kG0vg-O_SZgB_q0QMS-t__BXG-1bLXeQSz5oerxFwAA__8.gApU710hhOd43-OSv7mflLu08_WsW03KURr3Vodi5aMoqfymJp1va9tyV9Gu1yqn7NyhHm6f9lTgOVlsndtneg
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789926698900818",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T203032.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jjFLBDEQhf-KTL2By2Yms8k_sLGwTpPdmeCKwnK5A_G4WjsLa8HG2l-14M8w3p3winlvvgfvAPe7GSKUYRItwiazLQZHVTMSiQk6iE6TFRWGDup-bPAhwb7q9iY_aoKYYH1_Petqfflc375-vj8SdGfoWk6ID16JmBAd-gEzevKofmLPzBsM2HNuHyJH1omTUz8vy6XeLjPOzwmObcRcaxtxif583kG0vg-O_SZgB_q0QMS-t__BXG-1bLXeQSz5oerxFwAA__8.gApU710hhOd43-OSv7mflLu08_WsW03KURr3Vodi5aMoqfymJp1va9tyV9Gu1yqn7NyhHm6f9lTgOVlsndtneg
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789950855505620",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T203021.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jjFLBDEQhf-KTL2By2Yms8k_sLGwTpPdmeCKwnK5A_G4WjsLa8HG2l-14M8w3p3winlvvgfvAPe7GSKUYRItwiazLQZHVTMSiQk6iE6TFRWGDup-bPAhwb7q9iY_aoKYYH1_Petqfflc375-vj8SdGfoWk6ID16JmBAd-gEzevKofmLPzBsM2HNuHyJH1omTUz8vy6XeLjPOzwmObcRcaxtxif583kG0vg-O_SZgB_q0QMS-t__BXG-1bLXeQSz5oerxFwAA__8.gApU710hhOd43-OSv7mflLu08_WsW03KURr3Vodi5aMoqfymJp1va9tyV9Gu1yqn7NyhHm6f9lTgOVlsndtneg
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789950855505620",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T202945.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jjFLBDEQhf-KTL2By2Yms8k_sLGwTpPdmeCKwnK5A_G4WjsLa8HG2l-14M8w3p3winlvvgfvAPe7GSKUYRItwiazLQZHVTMSiQk6iE6TFRWGDup-bPAhwb7q9iY_aoKYYH1_Petqfflc375-vj8SdGfoWk6ID16JmBAd-gEzevKofmLPzBsM2HNuHyJH1omTUz8vy6XeLjPOzwmObcRcaxtxif583kG0vg-O_SZgB_q0QMS-t__BXG-1bLXeQSz5oerxFwAA__8.gApU710hhOd43-OSv7mflLu08_WsW03KURr3Vodi5aMoqfymJp1va9tyV9Gu1yqn7NyhHm6f9lTgOVlsndtneg
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789964665237522",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T202936.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jj1KA0EUx68ir96BnXkfszs3sLGwnuZtZgZXFJZMAiEhvZWdkFLwCGn1NirkFq4xdv9P-O3gfjVCAHQtqvrWpNSrIcXOdMTO-MI5D5mZpIMG6nqYx7sI65qXN_qYI4QIX0-H0-H4-fFydXp7_n59j9D8La7TuScWFU-FFt5yL9YzoRdJLEQo3pNKkYJWkC0mTOe_TtPlPiszjNsI-5lgrHUmuES_XlcQrLgeW7YeG8ibCQI5Z_-Dsd7mssz1DkLRh5r3PwAAAP__.ZB0t7ichS5o8diRK1Ao59fiD2iK9NiFN_qQAVOuAB5q25hs2pbdxdrHk5z_oyuydgbafNozaShMp1iP5KBl6TA
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789950855505620",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T201100.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jj1KA0EUx68ir96BnXkfszs3sLGwnuZtZgZXFJZMAiEhvZWdkFLwCGn1NirkFq4xdv9P-O3gfjVCAHQtqvrWpNSrIcXOdMTO-MI5D5mZpIMG6nqYx7sI65qXN_qYI4QIX0-H0-H4-fFydXp7_n59j9D8La7TuScWFU-FFt5yL9YzoRdJLEQo3pNKkYJWkC0mTOe_TtPlPiszjNsI-5lgrHUmuES_XlcQrLgeW7YeG8ibCQI5Z_-Dsd7mssz1DkLRh5r3PwAAAP__.ZB0t7ichS5o8diRK1Ao59fiD2iK9NiFN_qQAVOuAB5q25hs2pbdxdrHk5z_oyuydgbafNozaShMp1iP5KBl6TA
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789964665237522",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T201020.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jj1KA0EUx68ir96BnXkfszs3sLGwnuZtZgZXFJZMAiEhvZWdkFLwCGn1NirkFq4xdv9P-O3gfjVCAHQtqvrWpNSrIcXOdMTO-MI5D5mZpIMG6nqYx7sI65qXN_qYI4QIX0-H0-H4-fFydXp7_n59j9D8La7TuScWFU-FFt5yL9YzoRdJLEQo3pNKkYJWkC0mTOe_TtPlPiszjNsI-5lgrHUmuES_XlcQrLgeW7YeG8ibCQI5Z_-Dsd7mssz1DkLRh5r3PwAAAP__.ZB0t7ichS5o8diRK1Ao59fiD2iK9NiFN_qQAVOuAB5q25hs2pbdxdrHk5z_oyuydgbafNozaShMp1iP5KBl6TA
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789964665237055",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T201007.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jj1KA0EUx68ir96BnXkfszs3sLGwnuZtZgZXFJZMAiEhvZWdkFLwCGn1NirkFq4xdv9P-O3gfjVCAHQtqvrWpNSrIcXOdMTO-MI5D5mZpIMG6nqYx7sI65qXN_qYI4QIX0-H0-H4-fFydXp7_n59j9D8La7TuScWFU-FFt5yL9YzoRdJLEQo3pNKkYJWkC0mTOe_TtPlPiszjNsI-5lgrHUmuES_XlcQrLgeW7YeG8ibCQI5Z_-Dsd7mssz1DkLRh5r3PwAAAP__.ZB0t7ichS5o8diRK1Ao59fiD2iK9NiFN_qQAVOuAB5q25hs2pbdxdrHk5z_oyuydgbafNozaShMp1iP5KBl6TA
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789964665237522",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T200909.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jj1KA0EUx68ir96BnXkfszs3sLGwnuZtZgZXFJZMAiEhvZWdkFLwCGn1NirkFq4xdv9P-O3gfjVCAHQtqvrWpNSrIcXOdMTO-MI5D5mZpIMG6nqYx7sI65qXN_qYI4QIX0-H0-H4-fFydXp7_n59j9D8La7TuScWFU-FFt5yL9YzoRdJLEQo3pNKkYJWkC0mTOe_TtPlPiszjNsI-5lgrHUmuES_XlcQrLgeW7YeG8ibCQI5Z_-Dsd7mssz1DkLRh5r3PwAAAP__.ZB0t7ichS5o8diRK1Ao59fiD2iK9NiFN_qQAVOuAB5q25hs2pbdxdrHk5z_oyuydgbafNozaShMp1iP5KBl6TA
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789950855505620",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T195150.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jj1KA0EUx68ir96BnXkfszs3sLGwnuZtZgZXFJZMAiEhvZWdkFLwCGn1NirkFq4xdv9P-O3gfjVCAHQtqvrWpNSrIcXOdMTO-MI5D5mZpIMG6nqYx7sI65qXN_qYI4QIX0-H0-H4-fFydXp7_n59j9D8La7TuScWFU-FFt5yL9YzoRdJLEQo3pNKkYJWkC0mTOe_TtPlPiszjNsI-5lgrHUmuES_XlcQrLgeW7YeG8ibCQI5Z_-Dsd7mssz1DkLRh5r3PwAAAP__.ZB0t7ichS5o8diRK1Ao59fiD2iK9NiFN_qQAVOuAB5q25hs2pbdxdrHk5z_oyuydgbafNozaShMp1iP5KBl6TA
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789950855505620",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T195143.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jj1KA0EUx68ir96BnXkfszs3sLGwnuZtZgZXFJZMAiEhvZWdkFLwCGn1NirkFq4xdv9P-O3gfjVCAHQtqvrWpNSrIcXOdMTO-MI5D5mZpIMG6nqYx7sI65qXN_qYI4QIX0-H0-H4-fFydXp7_n59j9D8La7TuScWFU-FFt5yL9YzoRdJLEQo3pNKkYJWkC0mTOe_TtPlPiszjNsI-5lgrHUmuES_XlcQrLgeW7YeG8ibCQI5Z_-Dsd7mssz1DkLRh5r3PwAAAP__.ZB0t7ichS5o8diRK1Ao59fiD2iK9NiFN_qQAVOuAB5q25hs2pbdxdrHk5z_oyuydgbafNozaShMp1iP5KBl6TA
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789950855505620",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T195113.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+loginChannel: app
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jj1KA0EUx68ir96BnXkfszs3sLGwnuZtZgZXFJZMAiEhvZWdkFLwCGn1NirkFq4xdv9P-O3gfjVCAHQtqvrWpNSrIcXOdMTO-MI5D5mZpIMG6nqYx7sI65qXN_qYI4QIX0-H0-H4-fFydXp7_n59j9D8La7TuScWFU-FFt5yL9YzoRdJLEQo3pNKkYJWkC0mTOe_TtPlPiszjNsI-5lgrHUmuES_XlcQrLgeW7YeG8ibCQI5Z_-Dsd7mssz1DkLRh5r3PwAAAP__.ZB0t7ichS5o8diRK1Ao59fiD2iK9NiFN_qQAVOuAB5q25hs2pbdxdrHk5z_oyuydgbafNozaShMp1iP5KBl6TA
+User-Agent: familyMartStage/2.6.0 (com.familymart.familymartApp; build:7; iOS 14.2.0) Alamofire/5.4.3
+fmVersion: 2.6.0
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789950855505620",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T195056.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+loginChannel: app
+os: ios
+User-Agent: familyMartStage/2.6.0 (com.familymart.familymartApp; build:7; iOS 14.2.0) Alamofire/5.4.3
+fmVersion: 2.6.0
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789950855505620",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T195048.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+Host: fmapp-stage.chinafamilymart.com.cn
+Accept: */*
+loginChannel: app
+os: ios
+Accept-Language: zh-Hans;q=1.0
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jj1KA0EUx68ir96BnXkfszs3sLGwnuZtZgZXFJZMAiEhvZWdkFLwCGn1NirkFq4xdv9P-O3gfjVCAHQtqvrWpNSrIcXOdMTO-MI5D5mZpIMG6nqYx7sI65qXN_qYI4QIX0-H0-H4-fFydXp7_n59j9D8La7TuScWFU-FFt5yL9YzoRdJLEQo3pNKkYJWkC0mTOe_TtPlPiszjNsI-5lgrHUmuES_XlcQrLgeW7YeG8ibCQI5Z_-Dsd7mssz1DkLRh5r3PwAAAP__.ZB0t7ichS5o8diRK1Ao59fiD2iK9NiFN_qQAVOuAB5q25hs2pbdxdrHk5z_oyuydgbafNozaShMp1iP5KBl6TA
+deviceId: CD9FD298-D8BD-4226-B78A-9073F6FC6D1F
+User-Agent: familyMartStage/2.6.0 (com.familymart.familymartApp; build:7; iOS 14.2.0) Alamofire/5.4.3
+fmVersion: 2.6.0
+blackBox: eyJ0b2tlbklkIjoiRVN5bFpmNHBTMmFZU3VKenJJekpRVkhkWlJYMHhLRGxSWlhEV1gwZTQ3WmdFNGhuMjdqQ25HajBScDdsdm1ia0d6VExud2FPTW1nbkZEeHBKck1mNUE9PSIsIm9zIjoiaU9TIiwic2VxSWQiOiIxNjI5MjkwMjQ2NzM3ODE1MDY2IiwicHJvZmlsZVRpbWUiOjM4NSwidmVyc2lvbiI6IjMuNi43In0=
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789950855505620",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T194542.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jj1KA0EUx68ir96BnXkfszs3sLGwnuZtZgZXFJZMAiEhvZWdkFLwCGn1NirkFq4xdv9P-O3gfjVCAHQtqvrWpNSrIcXOdMTO-MI5D5mZpIMG6nqYx7sI65qXN_qYI4QIX0-H0-H4-fFydXp7_n59j9D8La7TuScWFU-FFt5yL9YzoRdJLEQo3pNKkYJWkC0mTOe_TtPlPiszjNsI-5lgrHUmuES_XlcQrLgeW7YeG8ibCQI5Z_-Dsd7mssz1DkLRh5r3PwAAAP__.ZB0t7ichS5o8diRK1Ao59fiD2iK9NiFN_qQAVOuAB5q25hs2pbdxdrHk5z_oyuydgbafNozaShMp1iP5KBl6TA
+User-Agent: familyMartStage/2.6.0 (com.familymart.familymartApp; build:7; iOS 14.2.0) Alamofire/5.4.3
+fmVersion: 2.6.0
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789950855505620",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T194532.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jj1KA0EUx68ir96BnXkfszs3sLGwnuZtZgZXFJZMAiEhvZWdkFLwCGn1NirkFq4xdv9P-O3gfjVCAHQtqvrWpNSrIcXOdMTO-MI5D5mZpIMG6nqYx7sI65qXN_qYI4QIX0-H0-H4-fFydXp7_n59j9D8La7TuScWFU-FFt5yL9YzoRdJLEQo3pNKkYJWkC0mTOe_TtPlPiszjNsI-5lgrHUmuES_XlcQrLgeW7YeG8ibCQI5Z_-Dsd7mssz1DkLRh5r3PwAAAP__.ZB0t7ichS5o8diRK1Ao59fiD2iK9NiFN_qQAVOuAB5q25hs2pbdxdrHk5z_oyuydgbafNozaShMp1iP5KBl6TA
+User-Agent: familyMartStage/2.6.0 (com.familymart.familymartApp; build:7; iOS 14.2.0) Alamofire/5.4.3
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789950855505620",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T194457.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jj1KA0EUx68ir96BnXkfszs3sLGwnuZtZgZXFJZMAiEhvZWdkFLwCGn1NirkFq4xdv9P-O3gfjVCAHQtqvrWpNSrIcXOdMTO-MI5D5mZpIMG6nqYx7sI65qXN_qYI4QIX0-H0-H4-fFydXp7_n59j9D8La7TuScWFU-FFt5yL9YzoRdJLEQo3pNKkYJWkC0mTOe_TtPlPiszjNsI-5lgrHUmuES_XlcQrLgeW7YeG8ibCQI5Z_-Dsd7mssz1DkLRh5r3PwAAAP__.ZB0t7ichS5o8diRK1Ao59fiD2iK9NiFN_qQAVOuAB5q25hs2pbdxdrHk5z_oyuydgbafNozaShMp1iP5KBl6TA
+fmVersion: 2.6.0
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789950855505620",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T194438.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jj1KA0EUx68ir96BnXkfszs3sLGwnuZtZgZXFJZMAiEhvZWdkFLwCGn1NirkFq4xdv9P-O3gfjVCAHQtqvrWpNSrIcXOdMTO-MI5D5mZpIMG6nqYx7sI65qXN_qYI4QIX0-H0-H4-fFydXp7_n59j9D8La7TuScWFU-FFt5yL9YzoRdJLEQo3pNKkYJWkC0mTOe_TtPlPiszjNsI-5lgrHUmuES_XlcQrLgeW7YeG8ibCQI5Z_-Dsd7mssz1DkLRh5r3PwAAAP__.ZB0t7ichS5o8diRK1Ao59fiD2iK9NiFN_qQAVOuAB5q25hs2pbdxdrHk5z_oyuydgbafNozaShMp1iP5KBl6TA
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789950855505620",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T194415.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/order/submit
+Host: fmapp-stage.chinafamilymart.com.cn
+Accept: */*
+loginChannel: app
+os: ios
+Accept-Language: zh-Hans;q=1.0
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0js1KAzEQx19F5ryBTmYy6eYNevHgOZfJJsEVhaVpQSy9e_Im9Cj4CF71bVToW7jWevt_wm8HN5sRAmC22KtVs5RlMTxwMglFDYmWPPhM7BN00LZpHu8ibFtZX-pdiRAifD0ejoe3z4_ni-Pr0_fLe4Tub7HKp56dqHiuPHh0vaB3TF4kO2Em8Z5VqlRCIYeUKZ_-Ok3n-6xMGh8i7GeCsbWZ4Bz9et1AQLG97RdMiw7K_QSBrcX_YGxXpa5Lu4ZQ9baV_Q8AAAD__w.0QpQDJXafWFyu8Mls727kIi8gH8Us7ri8oqBOk2jzLi0bZ1D9DGW64BBgpC5PbEpBx-GBY_-T_IBska894gTHw
+deviceId: CD9FD298-D8BD-4226-B78A-9073F6FC6D1F
+User-Agent: familyMartStage/2.6.0 (com.familymart.familymartApp; build:7; iOS 14.2.0) Alamofire/5.4.3
+fmVersion: 2.6.0
+blackBox: eyJ0b2tlbklkIjoiRVN5bFpmNHBTMmFZU3VKenJJekpRVkhkWlJYMHhLRGxSWlhEV1gwZTQ3WmdFNGhuMjdqQ25HajBScDdsdm1ia0d6VExud2FPTW1nbkZEeHBKck1mNUE9PSIsIm9zIjoiaU9TIiwic2VxSWQiOiIxNjI5MjkwMjQ2NzM3ODE1MDY2IiwicHJvZmlsZVRpbWUiOjM4NSwidmVyc2lvbiI6IjMuNi43In0=
+Content-Type: application/json
+
+{
+  "num": 1,
+  "productCd": "P162789950855505620",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T194159.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/category/product/list
+Content-Type: application/json
+
+{
+  "categoryCode": "202103080003",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T194149.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/product/convert
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0jj1KA0EUx68ir96BnXkfszs3sLGwnuZtZgZXFJZMAiEhvZWdkFLwCGn1NirkFq4xdv9P-O3gfjVCAHQtqvrWpNSrIcXOdMTO-MI5D5mZpIMG6nqYx7sI65qXN_qYI4QIX0-H0-H4-fFydXp7_n59j9D8La7TuScWFU-FFt5yL9YzoRdJLEQo3pNKkYJWkC0mTOe_TtPlPiszjNsI-5lgrHUmuES_XlcQrLgeW7YeG8ibCQI5Z_-Dsd7mssz1DkLRh5r3PwAAAP__.ZB0t7ichS5o8diRK1Ao59fiD2iK9NiFN_qQAVOuAB5q25hs2pbdxdrHk5z_oyuydgbafNozaShMp1iP5KBl6TA
+Content-Type: application/json
+
+{
+  "cityCd": "上海",
+  "productCd": "P162789950855505620"
+}
+
+<> 2021-08-19T194120.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/product/convert
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0js1KAzEQx19F5ryBTmYy6eYNevHgOZfJJsEVhaVpQSy9e_Im9Cj4CF71bVToW7jWevt_wm8HN5sRAmC22KtVs5RlMTxwMglFDYmWPPhM7BN00LZpHu8ibFtZX-pdiRAifD0ejoe3z4_ni-Pr0_fLe4Tub7HKp56dqHiuPHh0vaB3TF4kO2Em8Z5VqlRCIYeUKZ_-Ok3n-6xMGh8i7GeCsbWZ4Bz9et1AQLG97RdMiw7K_QSBrcX_YGxXpa5Lu4ZQ9baV_Q8AAAD__w.0QpQDJXafWFyu8Mls727kIi8gH8Us7ri8oqBOk2jzLi0bZ1D9DGW64BBgpC5PbEpBx-GBY_-T_IBska894gTHw
+Content-Type: application/json
+
+{
+  "cityCd": "上海",
+  "productCd": "P162789950855505620"
+}
+
+<> 2021-08-19T194018.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/category/product/list
+Content-Type: application/json
+
+{
+  "categoryCode": "202103080003",
+  "cityCd": "上海"
+}
+
+<> 2021-08-19T194001.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/product/convert
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0js1KAzEQx19F5ryBTmYy6eYNevHgOZfJJsEVhaVpQSy9e_Im9Cj4CF71bVToW7jWevt_wm8HN5sRAmC22KtVs5RlMTxwMglFDYmWPPhM7BN00LZpHu8ibFtZX-pdiRAifD0ejoe3z4_ni-Pr0_fLe4Tub7HKp56dqHiuPHh0vaB3TF4kO2Em8Z5VqlRCIYeUKZ_-Ok3n-6xMGh8i7GeCsbWZ4Bz9et1AQLG97RdMiw7K_QSBrcX_YGxXpa5Lu4ZQ9baV_Q8AAAD__w.0QpQDJXafWFyu8Mls727kIi8gH8Us7ri8oqBOk2jzLi0bZ1D9DGW64BBgpC5PbEpBx-GBY_-T_IBska894gTHw
+Content-Type: application/json
+
+{
+  "cityCd": "上海",
+  "productCd": "P162789950855505620"
+}
+
+<> 2021-08-19T193916.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/product/convert
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0js1KAzEQx19F5ryBTmYy6eYNevHgOZfJJsEVhaVpQSy9e_Im9Cj4CF71bVToW7jWevt_wm8HN5sRAmC22KtVs5RlMTxwMglFDYmWPPhM7BN00LZpHu8ibFtZX-pdiRAifD0ejoe3z4_ni-Pr0_fLe4Tub7HKp56dqHiuPHh0vaB3TF4kO2Em8Z5VqlRCIYeUKZ_-Ok3n-6xMGh8i7GeCsbWZ4Bz9et1AQLG97RdMiw7K_QSBrcX_YGxXpa5Lu4ZQ9baV_Q8AAAD__w.0QpQDJXafWFyu8Mls727kIi8gH8Us7ri8oqBOk2jzLi0bZ1D9DGW64BBgpC5PbEpBx-GBY_-T_IBska894gTHw
+Content-Type: application/json
+
+{
+  "cityCd": "上海",
+  "productCd": "P162789950855505620"
+}
+
+<> 2021-08-18T204920.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/product/convert
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0js1KAzEQx19F5ryBTmYy6eYNevHgOZfJJsEVhaVpQSy9e_Im9Cj4CF71bVToW7jWevt_wm8HN5sRAmC22KtVs5RlMTxwMglFDYmWPPhM7BN00LZpHu8ibFtZX-pdiRAifD0ejoe3z4_ni-Pr0_fLe4Tub7HKp56dqHiuPHh0vaB3TF4kO2Em8Z5VqlRCIYeUKZ_-Ok3n-6xMGh8i7GeCsbWZ4Bz9et1AQLG97RdMiw7K_QSBrcX_YGxXpa5Lu4ZQ9baV_Q8AAAD__w.0QpQDJXafWFyu8Mls727kIi8gH8Us7ri8oqBOk2jzLi0bZ1D9DGW64BBgpC5PbEpBx-GBY_-T_IBska894gTHo
+Content-Type: application/json
+
+{
+  "cityCd": "上海",
+  "productCd": "P162789950855505620"
+}
+
+<> 2021-08-18T204912.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/product/convert
+Content-Type: application/json
+
+{
+  "cityCd": "上海",
+  "productCd": "P162789950855505620"
+}
+
+<> 2021-08-18T204826.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/product/convert
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0js1KAzEQx19F5ryBTmYy6eYNevHgOZfJJsEVhaVpQSy9e_Im9Cj4CF71bVToW7jWevt_wm8HN5sRAmC22KtVs5RlMTxwMglFDYmWPPhM7BN00LZpHu8ibFtZX-pdiRAifD0ejoe3z4_ni-Pr0_fLe4Tub7HKp56dqHiuPHh0vaB3TF4kO2Em8Z5VqlRCIYeUKZ_-Ok3n-6xMGh8i7GeCsbWZ4Bz9et1AQLG97RdMiw7K_QSBrcX_YGxXpa5Lu4ZQ9baV_Q8AAAD__w.0QpQDJXafWFyu8Mls727kIi8gH8Us7ri8oqBOk2jzLi0bZ1D9DGW64BBgpC5PbEpBx-GBY_-T_IBska894gTHw
+Content-Type: application/json
+
+{
+  "cityCd": "上海",
+  "productCd": "P162789950855505620"
+}
+
+<> 2021-08-18T204746.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/product/convert
+Content-Type: application/json
+
+{
+  "cityCd": "上海",
+  "productCd": "P162789950855505620"
+}
+
+<> 2021-08-18T204738.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/product/convert
+Host: fmapp-stage.chinafamilymart.com.cn
+Accept: */*
+loginChannel: app
+os: ios
+token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0js1KAzEQx19F5ryBTmYy6eYNevHgOZfJJsEVhaVpQSy9e_Im9Cj4CF71bVToW7jWevt_wm8HN5sRAmC22KtVs5RlMTxwMglFDYmWPPhM7BN00LZpHu8ibFtZX-pdiRAifD0ejoe3z4_ni-Pr0_fLe4Tub7HKp56dqHiuPHh0vaB3TF4kO2Em8Z5VqlRCIYeUKZ_-Ok3n-6xMGh8i7GeCsbWZ4Bz9et1AQLG97RdMiw7K_QSBrcX_YGxXpa5Lu4ZQ9baV_Q8AAAD__w.0QpQDJXafWFyu8Mls727kIi8gH8Us7ri8oqBOk2jzLi0bZ1D9DGW64BBgpC5PbEpBx-GBY_-T_IBska894gTHw
+Accept-Language: zh-Hans;q=1.0
+deviceId: CD9FD298-D8BD-4226-B78A-9073F6FC6D1F
+User-Agent: familyMartStage/2.6.0 (com.familymart.familymartApp; build:7; iOS 14.2.0) Alamofire/5.4.3
+fmVersion: 2.6.0
+blackBox: eyJ0b2tlbklkIjoiRVN5bFpmNHBTMmFZU3VKenJJekpRVkhkWlJYMHhLRGxSWlhEV1gwZTQ3WmdFNGhuMjdqQ25HajBScDdsdm1ia0d6VExud2FPTW1nbkZEeHBKck1mNUE9PSIsIm9zIjoiaU9TIiwic2VxSWQiOiIxNjI5MjkwMjQ2NzM3ODE1MDY2IiwicHJvZmlsZVRpbWUiOjM4NSwidmVyc2lvbiI6IjMuNi43In0=
+Content-Type: application/json
+
+{
+  "cityCd": "上海",
+  "productCd": "P162789950855505620"
+}
+
+<> 2021-08-18T204542.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/category/product/list
+Content-Type: application/json
+
+{
+  "categoryCode": "202103080003",
+  "cityCd": "上海"
+}
+
+<> 2021-08-18T204409.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/login
+deviceId: CD9FD298-D8BD-4226-B78A-9073F6FC6D1F
+Content-Type: application/json
+
+{
+  "grantTypeCd": "1",
+  "verifyCode": "198250",
+  "jpushId": "101d855909e851a0721",
+  "distinctId": "CD9FD298-D8BD-4226-B78A-9073F6FC6D1F",
+  "unionId": "",
+  "newVersion": true,
+  "openChannelCd": "1",
+  "mobile": "13262213021",
+  "openId": ""
+}
+
+<> 2021-08-18T203957.200.json
+
+###
+
+POST https://fmapp.chinafamilymart.com.cn/api/app/oms/v1/mili/service/category/product/list
+Content-Type: application/json
+
+{
+  "categoryCode": "202107050234",
+  "cityCd": "苏州"
+}
+
+<> 2021-08-18T203549.200.json
+
+###
+
+POST https://fmapp.chinafamilymart.com.cn/api/app/oms/v1/mili/service/category/product/list
+Content-Type: application/json
+
+{
+  "categoryCode": "202107050234",
+  "cityCd": "上海"
+}
+
+<> 2021-08-17T221533.200.json
+
+###
+
+POST https://fmapp.chinafamilymart.com.cn/api/app/oms/v1/mili/service/category/product/list
+
+{
+  "categoryCode": "202107050234",
+  "cityCd": "上海"
+}
+
+<> 2021-08-17T221523.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/login
+deviceId: CD9FD298-D8BD-4226-B78A-9073F6FC6D1F
+Content-Type: application/json
+
+{
+  "mobile": "13262213021",
+  "openId": "",
+  "verifyCode": "198250",
+  "openChannelCd": "1",
+  "grantTypeCd": "1",
+  "unionId": "",
+  "jpushId": "101d855909e851a0721",
+  "distinctId": "CD9FD298-D8BD-4226-B78A-9073F6FC6D1F"
+}
+
+<> 2021-08-15T161047.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/login
+deviceId: CD9FD298-D8BD-4226-B78A-9073F6FC6D1F
+Content-Type: application/json
+
+{
+  "mobile": "13262213021",
+  "openId": "",
+  "verifyCode": "198250",
+  "openChannelCd": "1",
+  "grantTypeCd": "1",
+  "newVersion": true,
+  "unionId": "",
+  "jpushId": "101d855909e851a0721",
+  "distinctId": "CD9FD298-D8BD-4226-B78A-9073F6FC6D1F"
+}
+
+<> 2021-08-15T155038.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/login
+deviceId: CD9FD298-D8BD-4226-B78A-9073F6FC6D1F
+Content-Type: application/json
+
+{
+  "mobile": "13262213021",
+  "openId": "",
+  "verifyCode": "198250",
+  "openChannelCd": "1",
+  "grantTypeCd": "1",
+  "newVersion": true,
+  "unionId": "",
+  "jpushId": "101d855909e851a0721",
+  "distinctId": "CD9FD298-D8BD-4226-B78A-9073F6FC6D1F"
+}
+
+<> 2021-08-15T153737.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/login
+Host: fmapp-stage.chinafamilymart.com.cn
+deviceId: CD9FD298-D8BD-4226-B78A-9073F6FC6D1F
+Content-Type: application/json
+
+{
+  "mobile": "13262213021",
+  "openId": "",
+  "verifyCode": "198250",
+  "openChannelCd": "1",
+  "grantTypeCd": "1",
+  "newVersion": true,
+  "unionId": "",
+  "jpushId": "101d855909e851a0721",
+  "distinctId": "CD9FD298-D8BD-4226-B78A-9073F6FC6D1F"
+}
+
+<> 2021-08-15T153726.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/login
+Host: fmapp-stage.chinafamilymart.com.cn
+Content-Type: application/json
+
+{
+  "mobile": "13262213021",
+  "openId": "",
+  "verifyCode": "198250",
+  "openChannelCd": "1",
+  "grantTypeCd": "1",
+  "newVersion": true,
+  "unionId": "",
+  "jpushId": "101d855909e851a0721",
+  "distinctId": "CD9FD298-D8BD-4226-B78A-9073F6FC6D1F"
+}
+
+<> 2021-08-15T153716.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/login
+Host: fmapp-stage.chinafamilymart.com.cn
+Accept: */*
+loginChannel: app
+os: ios
+token:
+Accept-Language: zh-Hans-CN;q=1.0, en-CN;q=0.9
+deviceId: CD9FD298-D8BD-4226-B78A-9073F6FC6D1F
+User-Agent: familyMartStage/2.6.0 (com.familymart.familymartApp; build:7; iOS 14.2.0) Alamofire/5.4.3
+fmVersion: 2.6.0
+Content-Type: application/json
+
+{
+  "mobile": "13262213021",
+  "openId": "",
+  "verifyCode": "198250",
+  "openChannelCd": "1",
+  "grantTypeCd": "1",
+  "newVersion": true,
+  "unionId": "",
+  "jpushId": "101d855909e851a0721",
+  "distinctId": "CD9FD298-D8BD-4226-B78A-9073F6FC6D1F"
+}
+
+<> 2021-08-15T153645.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/login
+Host: fmapp-stage.chinafamilymart.com.cn
+Accept: */*
+loginChannel: app
+os: ios
+token:
+Accept-Language: zh-Hans-CN;q=1.0, en-CN;q=0.9
+deviceId: CD9FD298-D8BD-4226-B78A-9073F6FC6D1F
+User-Agent: familyMartStage/2.6.0 (com.familymart.familymartApp; build:7; iOS 14.2.0) Alamofire/5.4.3
+fmVersion: 2.6.0
+blackBox: eyJ0b2tlbklkIjoib0x5MEFVRkZmc3ExQlwvUFM0SVdtdXNuazNHYXRkV0tRaEV5YnhOaHFYNTFPMmtHcHVkbnNrSHlLcm12cmUxc1FhZ3lRZm9ib1ducVwvT1wvUkRWWWZNb0E9PSIsIm9zIjoiaU9TIiwic2VxSWQiOiIxNjI5MDEwNzc2NDYxNDk0ODk2IiwicHJvZmlsZVRpbWUiOjc4LCJ2ZXJzaW9uIjoiMy42LjcifQ==
+Content-Type: application/json
+
+{
+  "mobile": "13262213021",
+  "openId": "",
+  "verifyCode": "198250",
+  "openChannelCd": "1",
+  "grantTypeCd": "1",
+  "newVersion": true,
+  "unionId": "",
+  "jpushId": "101d855909e851a0721",
+  "distinctId": "CD9FD298-D8BD-4226-B78A-9073F6FC6D1F"
+}
+
+<> 2021-08-15T151347.200.json
+
+###
+
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/login
+Host: fmapp-stage.chinafamilymart.com.cn
+Accept: */*
+loginChannel: app
+os: ios
+token:
+Accept-Language: zh-Hans-CN;q=1.0, en-CN;q=0.9
+deviceId: CD9FD298-D8BD-4226-B78A-9073F6FC6D1F
+User-Agent: familyMartStage/2.6.0 (com.familymart.familymartApp; build:7; iOS 14.2.0) Alamofire/5.4.3
+fmVersion: 2.6.0
+blackBox: eyJ0b2tlbklkIjoib0x5MEFVRkZmc3ExQlwvUFM0SVdtdXNuazNHYXRkV0tRaEV5YnhOaHFYNTFPMmtHcHVkbnNrSHlLcm12cmUxc1FhZ3lRZm9ib1ducVwvT1wvUkRWWWZNb0E9PSIsIm9zIjoiaU9TIiwic2VxSWQiOiIxNjI5MDEwNzc2NDYxNDk0ODk2IiwicHJvZmlsZVRpbWUiOjc4LCJ2ZXJzaW9uIjoiMy42LjcifQ==
+Content-Type: application/json
+
+{
+  "mobile": "13262213021",
+  "openId": "",
+  "verifyCode": "198250",
+  "openChannelCd": "1",
+  "grantTypeCd": "1",
+  "newVersion": true,
+  "unionId": "",
+  "jpushId": "101d855909e851a0721",
+  "distinctId": "CD9FD298-D8BD-4226-B78A-9073F6FC6D1F"
+}
+
+<> 2021-08-15T150426.200.json
+
+###
+
+POST http://localhost:8080/jenkins/j_spring_security_check
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/jenkins/login?from=%2Fjenkins%2F
+Accept-Language: zh-CN,zh;q=0.9
+Content-Type: application/x-www-form-urlencoded
+
+j_username=liuyanghe&j_password=123456&from=%2Fjenkins%2F&Submit=%E7%99%BB%E5%BD%95
+
+<> 2021-07-25T172526.200.html
+
+###
+
+POST http://localhost:8080/jenkins/j_spring_security_check
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/jenkins/login?from=%2Fjenkins%2F
+Accept-Language: zh-CN,zh;q=0.9
+Content-Type: application/x-www-form-urlencoded
+
+j_username=liuyanghe&j_password=123456&from=%2Fjenkins%2F&Submit=%E7%99%BB%E5%BD%95
+
+<> 2021-07-25T172513.403.html
+
+###
+
+POST http://localhost:8080/jenkins/j_spring_security_check
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/jenkins/login?from=%2Fjenkins%2F
+Accept-Language: zh-CN,zh;q=0.9
+Content-Type: application/x-www-form-urlencoded
+
+j_username=liuyanghe&j_password=123456&from=%2Fjenkins%2F&Submit=%E7%99%BB%E5%BD%95
+
+<> 2021-07-25T123740.200.html
+
+###
+
+POST http://localhost:8080/jenkins/j_spring_security_check
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/jenkins/login?from=%2Fjenkins%2F
+Accept-Language: zh-CN,zh;q=0.9
+Content-Type: application/x-www-form-urlencoded
+
+j_username=liuyanghe&j_password=123456&from=%2Fjenkins%2F&Submit=%E7%99%BB%E5%BD%95
+
+<> 2021-07-25T123659.403.html
+
+###
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/Advance/Config/test.config" />
+    <file url="file://$PROJECT_DIR$/FmApp/Configs/case.config" />
+    <file url="file://$PROJECT_DIR$/Unittest/Jenkins_login/case.config" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (Study)" project-jdk-type="Python SDK" />
+</project>

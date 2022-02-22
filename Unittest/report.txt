@@ -1,0 +1,19 @@
+test_add_tow_negative (Unittest.TestCase.TestCaseAddition) ... FAIL
+test_add_two_positive (Unittest.TestCase.TestCaseAddition) ... ok
+test_add_two_zero (Unittest.TestCase.TestCaseAddition) ... ok
+test_add_tow_negative (Unittest.TestCase.TestCaseMultiple) ... ok
+test_add_two_positive (Unittest.TestCase.TestCaseMultiple) ... ok
+test_add_two_zero (Unittest.TestCase.TestCaseMultiple) ... ok
+
+======================================================================
+FAIL: test_add_tow_negative (Unittest.TestCase.TestCaseAddition)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\Python\Study\Unittest\TestCase.py", line 27, in test_add_tow_negative
+    self.assertEqual(4,result,"加法算错了")
+AssertionError: 4 != -4 : 加法算错了
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.001s
+
+FAILED (failures=1)

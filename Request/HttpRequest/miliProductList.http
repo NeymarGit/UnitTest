@@ -1,0 +1,24 @@
+###
+
+# curl -H "Host: fmapp-stage.chinafamilymart.com.cn" -H "Content-Type: application/json" -H "Accept: */*" -H "loginChannel: app" -H "os: ios" -H "Accept-Language: zh-Hans;q=1.0" -H "token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0js1KAzEQx19F5ryBTmYy6eYNevHgOZfJJsEVhaVpQSy9e_Im9Cj4CF71bVToW7jWevt_wm8HN5sRAmC22KtVs5RlMTxwMglFDYmWPPhM7BN00LZpHu8ibFtZX-pdiRAifD0ejoe3z4_ni-Pr0_fLe4Tub7HKp56dqHiuPHh0vaB3TF4kO2Em8Z5VqlRCIYeUKZ_-Ok3n-6xMGh8i7GeCsbWZ4Bz9et1AQLG97RdMiw7K_QSBrcX_YGxXpa5Lu4ZQ9baV_Q8AAAD__w.0QpQDJXafWFyu8Mls727kIi8gH8Us7ri8oqBOk2jzLi0bZ1D9DGW64BBgpC5PbEpBx-GBY_-T_IBska894gTHw" -H "deviceId: CD9FD298-D8BD-4226-B78A-9073F6FC6D1F" -H "User-Agent: familyMartStage/2.6.0 (com.familymart.familymartApp; build:7; iOS 14.2.0) Alamofire/5.4.3" -H "fmVersion: 2.6.0" -H "blackBox: eyJ0b2tlbklkIjoiRVN5bFpmNHBTMmFZU3VKenJJekpRVkhkWlJYMHhLRGxSWlhEV1gwZTQ3WmdFNGhuMjdqQ25HajBScDdsdm1ia0d6VExud2FPTW1nbkZEeHBKck1mNUE9PSIsIm9zIjoiaU9TIiwic2VxSWQiOiIxNjI5MjkwMjQ2NzM3ODE1MDY2IiwicHJvZmlsZVRpbWUiOjM4NSwidmVyc2lvbiI6IjMuNi43In0=" -H "Cookie: sensorsdata2015jssdkcross=%7B%22%24device_id%22%3A%2217b56f3ca3c1ef-0e3ed41b947da78-754c1551-304500-17b56f3ca3f125%22%2C%22distinct_id%22%3A%2217b56f41da6d74-015866d11aa62-754c1551-304500-17b56f41da7107d%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%2C%22%24latest_referrer%22%3A%22%22%7D%7D; sajssdk_2015_cross_new_user=1" --data-binary "{\"categoryCode\":\"202103080003\",\"cityCd\":\"涓婃捣\"}" --compressed "https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/category/product/list"
+POST https://fmapp-stage.chinafamilymart.com.cn/api/app/oms/v1/mili/service/category/product/list
+#Host: fmapp-stage.chinafamilymart.com.cn
+#Accept: */*
+#loginChannel: app
+#os: ios
+#Accept-Language: zh-Hans;q=1.0
+#token: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0js1KAzEQx19F5ryBTmYy6eYNevHgOZfJJsEVhaVpQSy9e_Im9Cj4CF71bVToW7jWevt_wm8HN5sRAmC22KtVs5RlMTxwMglFDYmWPPhM7BN00LZpHu8ibFtZX-pdiRAifD0ejoe3z4_ni-Pr0_fLe4Tub7HKp56dqHiuPHh0vaB3TF4kO2Em8Z5VqlRCIYeUKZ_-Ok3n-6xMGh8i7GeCsbWZ4Bz9et1AQLG97RdMiw7K_QSBrcX_YGxXpa5Lu4ZQ9baV_Q8AAAD__w.0QpQDJXafWFyu8Mls727kIi8gH8Us7ri8oqBOk2jzLi0bZ1D9DGW64BBgpC5PbEpBx-GBY_-T_IBska894gTHw
+#deviceId: CD9FD298-D8BD-4226-B78A-9073F6FC6D1F
+#User-Agent: familyMartStage/2.6.0 (com.familymart.familymartApp; build:7; iOS 14.2.0) Alamofire/5.4.3
+#fmVersion: 2.6.0
+#blackBox: eyJ0b2tlbklkIjoiRVN5bFpmNHBTMmFZU3VKenJJekpRVkhkWlJYMHhLRGxSWlhEV1gwZTQ3WmdFNGhuMjdqQ25HajBScDdsdm1ia0d6VExud2FPTW1nbkZEeHBKck1mNUE9PSIsIm9zIjoiaU9TIiwic2VxSWQiOiIxNjI5MjkwMjQ2NzM3ODE1MDY2IiwicHJvZmlsZVRpbWUiOjM4NSwidmVyc2lvbiI6IjMuNi43In0=
+#Cookie: sensorsdata2015jssdkcross=%7B%22%24device_id%22%3A%2217b56f3ca3c1ef-0e3ed41b947da78-754c1551-304500-17b56f3ca3f125%22%2C%22distinct_id%22%3A%2217b56f41da6d74-015866d11aa62-754c1551-304500-17b56f41da7107d%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%2C%22%24latest_referrer%22%3A%22%22%7D%7D; sajssdk_2015_cross_new_user=1
+Content-Type: application/json
+
+{
+  "categoryCode": "202103080003",
+  "cityCd": "上海"
+}
+
+###
+

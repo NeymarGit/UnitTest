@@ -1,0 +1,34 @@
+###
+
+# curl 'http://localhost:8080/jenkins/me/my-views'
+#  -H 'Connection: keep-alive'
+#  -H 'sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"'
+#  -H 'sec-ch-ua-mobile: ?0'
+#  -H 'Upgrade-Insecure-Requests: 1'
+#  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36'
+#  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+#  -H 'Sec-Fetch-Site: same-origin'
+#  -H 'Sec-Fetch-Mode: navigate'
+#  -H 'Sec-Fetch-User: ?1'
+#  -H 'Sec-Fetch-Dest: document'
+#  -H 'Referer: http://localhost:8080/jenkins/'
+#  -H 'Accept-Language: zh-CN,zh;q=0.9'
+#  -H 'Cookie: JSESSIONID=393FAA4B01D00A84CE86BA59F54FD2CD; screenResolution=1920x1080'
+#  --compressed
+GET http://localhost:8080/jenkins/me/my-views
+Connection: keep-alive
+sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/jenkins/
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: JSESSIONID=393FAA4B01D00A84CE86BA59F54FD2CD; screenResolution=1920x1080
+
+###
+

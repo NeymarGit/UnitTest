@@ -1,0 +1,43 @@
+###
+
+# curl 'http://localhost:8080/jenkins/j_spring_security_check'
+#  -H 'Connection: keep-alive'
+#  -H 'Cache-Control: max-age=0'
+#  -H 'sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"'
+#  -H 'sec-ch-ua-mobile: ?0'
+#  -H 'Upgrade-Insecure-Requests: 1'
+#  -H 'Origin: http://localhost:8080'
+#  -H 'Content-Type: application/x-www-form-urlencoded'
+#  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36'
+#  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+#  -H 'Sec-Fetch-Site: same-origin'
+#  -H 'Sec-Fetch-Mode: navigate'
+#  -H 'Sec-Fetch-User: ?1'
+#  -H 'Sec-Fetch-Dest: document'
+#  -H 'Referer: http://localhost:8080/jenkins/login?from=%2Fjenkins%2F'
+#  -H 'Accept-Language: zh-CN,zh;q=0.9'
+#  -H 'Cookie: JSESSIONID=795E0FB3A2B7DDAC7E774399BB256DC2; screenResolution=1920x1080'
+#  --data-raw 'j_username=liuyanghe&j_password=123456&from=%2Fjenkins%2F&Submit=%E7%99%BB%E5%BD%95'
+#  --compressed
+POST http://localhost:8080/jenkins/j_spring_security_check
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"
+sec-ch-ua-mobile: ?0
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/jenkins/login?from=%2Fjenkins%2F
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: JSESSIONID=795E0FB3A2B7DDAC7E774399BB256DC2; screenResolution=1920x1080
+Content-Type: application/x-www-form-urlencoded
+
+j_username=liuyanghe&j_password=123456&from=%2Fjenkins%2F&Submit=%E7%99%BB%E5%BD%95
+
+###
+

@@ -1,0 +1,29 @@
+aaa
+蔡徐坤
+lyhhcy/nhcy/n蔡徐坤hcy
+蔡徐坤
+hcy
+蔡徐坤
+hcy
+蔡徐坤
+hcy
+蔡徐坤
+hcy
+蔡徐坤
+hcy
+蔡徐坤
+hcy
+蔡徐坤
+hcy
+蔡徐坤
+hcy
+蔡徐坤
+hcy
+蔡徐坤[WinError 145] 目录不是空的。: 'python1001'[WinError 145] 目录不是空的。: 'python1001'
+[WinError 145] 目录不是空的。: 'python1001'
+[WinError 145] 目录不是空的。: 'python1001'
+[WinError 267] 目录名称无效。: '__init__.py'
+open() missing required argument 'flags' (pos 2)
+an integer is required (got type str)
+open() missing required argument 'flags' (pos 2)
+[Errno 2] No such file or directory: '__init__.py'
