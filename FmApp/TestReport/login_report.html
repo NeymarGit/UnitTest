@@ -212,10 +212,10 @@ table       { font-size: 100%; }
                 innerSize: '80%',
                 name: '比例',
                 data: [
-                    ['通过', 8],
+                    ['通过', 5],
                     {
                         name: '失败',
-                        y: 2,
+                        y: 5,
                         sliced: true,
                         selected: true
                     },
@@ -347,10 +347,10 @@ function html_escape(s) {
 <div style="width: 650px; float: left;">
     <h1 style="font-family: Microsoft YaHei">回归测试</h1>
     <p class='attribute'><strong>测试人员 : </strong> lyh</p>
-<p class='attribute'><strong>开始时间 : </strong> 2021-10-26 20:44:33</p>
-<p class='attribute'><strong>合计耗时 : </strong> 0:00:02.358822</p>
-<p class='attribute'><strong>测试结果 : </strong> 共 10，通过 8，失败 2，通过率 = 80.00%</p>
-<p class='attribute'><strong>失败用例合集 : </strong> <div class='panel-default' style='float: left;'><a class='showDetail' data-toggle='collapse' href='#failCaseOl' style='text-decoration: none;'>点击查看</a></div><ol id='failCaseOl' class='collapse' style='float: left;'><li>test_login_4 (FmApp.TestExcute.TestCase.TestCase)</li><li>test_miliExchange_1 (FmApp.TestExcute.TestCase.TestCase)</li></ol></p>
+<p class='attribute'><strong>开始时间 : </strong> 2022-02-22 22:12:02</p>
+<p class='attribute'><strong>合计耗时 : </strong> 0:00:05.261224</p>
+<p class='attribute'><strong>测试结果 : </strong> 共 10，通过 5，失败 5，通过率 = 50.00%</p>
+<p class='attribute'><strong>失败用例合集 : </strong> <div class='panel-default' style='float: left;'><a class='showDetail' data-toggle='collapse' href='#failCaseOl' style='text-decoration: none;'>点击查看</a></div><ol id='failCaseOl' class='collapse' style='float: left;'><li>test_login_1 (FmApp.TestExcute.TestCase.TestCase)</li><li>test_miliExchange_1 (FmApp.TestExcute.TestCase.TestCase)</li><li>test_miliExchange_2 (FmApp.TestExcute.TestCase.TestCase)</li><li>test_miliExchange_3 (FmApp.TestExcute.TestCase.TestCase)</li><li>test_miliExchange_4 (FmApp.TestExcute.TestCase.TestCase)</li></ol></p>
 <p class='attribute'><strong>错误用例合集 : </strong> <ol style='float: left;'>无</ol></p>
 
     <p class='description'></p>
@@ -361,9 +361,9 @@ function html_escape(s) {
 
 <div style="width: 500px; clear: both;">
 <p id='show_detail_line'>
-<a class="btn btn-primary" href='javascript:showCase(0)'>概要{ 80.00% }</a>
-<a class="btn btn-success" href='javascript:showCase(2)'>通过{ 8 }</a>
-<a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 2 }</a>
+<a class="btn btn-primary" href='javascript:showCase(0)'>概要{ 50.00% }</a>
+<a class="btn btn-success" href='javascript:showCase(2)'>通过{ 5 }</a>
+<a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 5 }</a>
 <a class="btn btn-warning" href='javascript:showCase(3)'>错误{ 0 }</a>
 <a class="btn btn-info" href='javascript:showCase(4)'>所有{ 10 }</a>
 </p>
@@ -394,33 +394,44 @@ function html_escape(s) {
     <td>TestCase</td>
     <td></td>
     <td class="text-center">10</td>
-    <td class="text-center">8</td>
-    <td class="text-center">2</td>
+    <td class="text-center">5</td>
+    <td class="text-center">5</td>
     <td class="text-center">0</td>
-    <td class="text-center">2.36秒</td>
+    <td class="text-center">5.26秒</td>
     <td class="text-center"><a href="javascript:showClassDetail('c1',10)" class="detail" id='c1'>详细</a></td>
 </tr>
 
-    <tr id='pt1_1' class='hiddenRow'>
-        <td class='passCase' style="vertical-align: middle"><div class='testcase'>test_login_1</div></td>
+    <tr id='ft1_1' class='none'>
+        <td class='failCase' style="vertical-align: middle"><div class='testcase'>test_login_1</div></td>
         <td style="vertical-align: middle"></td>
         <td colspan='5' align='center'>
         <!--默认收起错误信息 -Findyou
-        <button id='btn_pt1_1' type="button"  class="btn btn-xs collapsed" data-toggle="collapse" data-target='#div_pt1_1'>通过</button>
-        <div id='div_pt1_1' class="collapse">  -->
+        <button id='btn_ft1_1' type="button"  class="btn btn-xs collapsed" data-toggle="collapse" data-target='#div_ft1_1'>失败</button>
+        <div id='div_ft1_1' class="collapse">  -->
         <!-- 默认展开错误信息 -Findyou /  修复失败按钮的颜色 -- Gelomen -->
-        <button id='btn_pt1_1' type="button"  class="btn btn-xs" data-toggle="collapse" data-target='#div_pt1_1'>通过</button>
-        <div id='div_pt1_1' class="collapse in">
+        <button id='btn_ft1_1' type="button"  class="btn btn-xs" data-toggle="collapse" data-target='#div_ft1_1'>失败</button>
+        <div id='div_ft1_1' class="collapse in">
         <pre style="text-align:left">
         
-pt1_1: D:\Python\Study\venv\lib\site-packages\urllib3\connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fmapp-stage.chinafamilymart.com.cn'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+ft1_1: D:\Python\Study\venv\lib\site-packages\urllib3\connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fmapp-stage.chinafamilymart.com.cn'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
   warnings.warn(
+Traceback (most recent call last):
+  File "D:\Python\Study\venv\lib\site-packages\ddt.py", line 191, in wrapper
+    return func(self, *args, **kwargs)
+  File "D:\Python\Study\FmApp\TestExcute\TestCase.py", line 43, in test_login
+    raise e
+  File "D:\Python\Study\FmApp\TestExcute\TestCase.py", line 35, in test_login
+    self.assertEqual(eval(item["expect_result"])["code"], result["code"])
+AssertionError: '200' != '302005'
+- 200
++ 302005
+
 
 
         </pre>
         </div>
         </td>
-        <td class='passCase' style="vertical-align: middle"></td>
+        <td class='failCase' style="vertical-align: middle"></td>
     </tr>
     
     <tr id='pt1_2' class='hiddenRow'>
@@ -467,39 +478,26 @@ pt1_3: D:\Python\Study\venv\lib\site-packages\urllib3\connectionpool.py:1013: In
         <td class='passCase' style="vertical-align: middle"></td>
     </tr>
     
-    <tr id='ft1_4' class='none'>
-        <td class='failCase' style="vertical-align: middle"><div class='testcase'>test_login_4</div></td>
+    <tr id='pt1_4' class='hiddenRow'>
+        <td class='passCase' style="vertical-align: middle"><div class='testcase'>test_login_4</div></td>
         <td style="vertical-align: middle"></td>
         <td colspan='5' align='center'>
         <!--默认收起错误信息 -Findyou
-        <button id='btn_ft1_4' type="button"  class="btn btn-xs collapsed" data-toggle="collapse" data-target='#div_ft1_4'>失败</button>
-        <div id='div_ft1_4' class="collapse">  -->
+        <button id='btn_pt1_4' type="button"  class="btn btn-xs collapsed" data-toggle="collapse" data-target='#div_pt1_4'>通过</button>
+        <div id='div_pt1_4' class="collapse">  -->
         <!-- 默认展开错误信息 -Findyou /  修复失败按钮的颜色 -- Gelomen -->
-        <button id='btn_ft1_4' type="button"  class="btn btn-xs" data-toggle="collapse" data-target='#div_ft1_4'>失败</button>
-        <div id='div_ft1_4' class="collapse in">
+        <button id='btn_pt1_4' type="button"  class="btn btn-xs" data-toggle="collapse" data-target='#div_pt1_4'>通过</button>
+        <div id='div_pt1_4' class="collapse in">
         <pre style="text-align:left">
         
-ft1_4: D:\Python\Study\venv\lib\site-packages\urllib3\connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fmapp-stage.chinafamilymart.com.cn'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+pt1_4: D:\Python\Study\venv\lib\site-packages\urllib3\connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fmapp-stage.chinafamilymart.com.cn'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
   warnings.warn(
-Traceback (most recent call last):
-  File "D:\Python\Study\venv\lib\site-packages\ddt.py", line 191, in wrapper
-    return func(self, *args, **kwargs)
-  File "D:\Python\Study\FmApp\TestExcute\TestCase.py", line 43, in test_login
-    raise e
-  File "D:\Python\Study\FmApp\TestExcute\TestCase.py", line 35, in test_login
-    self.assertEqual(eval(item["expect_result"])["code"], result["code"])
-AssertionError: '302006' != '302005'
-- 302006
-?      ^
-+ 302005
-?      ^
-
 
 
         </pre>
         </div>
         </td>
-        <td class='failCase' style="vertical-align: middle"></td>
+        <td class='passCase' style="vertical-align: middle"></td>
     </tr>
     
     <tr id='pt1_5' class='hiddenRow'>
@@ -567,10 +565,7 @@ Traceback (most recent call last):
     raise e
   File "D:\Python\Study\FmApp\TestExcute\TestCase.py", line 68, in test_miliExchange
     self.assertEqual(eval(item["expect_result"])["code"], result["code"])
-AssertionError: '200' != '304200'
-- 200
-+ 304200
-
+AssertionError: '200' != 102002
 
 
         </pre>
@@ -579,80 +574,104 @@ AssertionError: '200' != '304200'
         <td class='failCase' style="vertical-align: middle"></td>
     </tr>
     
-    <tr id='pt1_8' class='hiddenRow'>
-        <td class='passCase' style="vertical-align: middle"><div class='testcase'>test_miliExchange_2</div></td>
+    <tr id='ft1_8' class='none'>
+        <td class='failCase' style="vertical-align: middle"><div class='testcase'>test_miliExchange_2</div></td>
         <td style="vertical-align: middle"></td>
         <td colspan='5' align='center'>
         <!--默认收起错误信息 -Findyou
-        <button id='btn_pt1_8' type="button"  class="btn btn-xs collapsed" data-toggle="collapse" data-target='#div_pt1_8'>通过</button>
-        <div id='div_pt1_8' class="collapse">  -->
+        <button id='btn_ft1_8' type="button"  class="btn btn-xs collapsed" data-toggle="collapse" data-target='#div_ft1_8'>失败</button>
+        <div id='div_ft1_8' class="collapse">  -->
         <!-- 默认展开错误信息 -Findyou /  修复失败按钮的颜色 -- Gelomen -->
-        <button id='btn_pt1_8' type="button"  class="btn btn-xs" data-toggle="collapse" data-target='#div_pt1_8'>通过</button>
-        <div id='div_pt1_8' class="collapse in">
+        <button id='btn_ft1_8' type="button"  class="btn btn-xs" data-toggle="collapse" data-target='#div_ft1_8'>失败</button>
+        <div id='div_ft1_8' class="collapse in">
         <pre style="text-align:left">
         
-pt1_8: D:\Python\Study\venv\lib\site-packages\urllib3\connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fmapp-stage.chinafamilymart.com.cn'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+ft1_8: D:\Python\Study\venv\lib\site-packages\urllib3\connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fmapp-stage.chinafamilymart.com.cn'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
   warnings.warn(
+Traceback (most recent call last):
+  File "D:\Python\Study\venv\lib\site-packages\ddt.py", line 191, in wrapper
+    return func(self, *args, **kwargs)
+  File "D:\Python\Study\FmApp\TestExcute\TestCase.py", line 72, in test_miliExchange
+    raise e
+  File "D:\Python\Study\FmApp\TestExcute\TestCase.py", line 68, in test_miliExchange
+    self.assertEqual(eval(item["expect_result"])["code"], result["code"])
+AssertionError: '304200' != 102002
 
 
         </pre>
         </div>
         </td>
-        <td class='passCase' style="vertical-align: middle"></td>
+        <td class='failCase' style="vertical-align: middle"></td>
     </tr>
     
-    <tr id='pt1_9' class='hiddenRow'>
-        <td class='passCase' style="vertical-align: middle"><div class='testcase'>test_miliExchange_3</div></td>
+    <tr id='ft1_9' class='none'>
+        <td class='failCase' style="vertical-align: middle"><div class='testcase'>test_miliExchange_3</div></td>
         <td style="vertical-align: middle"></td>
         <td colspan='5' align='center'>
         <!--默认收起错误信息 -Findyou
-        <button id='btn_pt1_9' type="button"  class="btn btn-xs collapsed" data-toggle="collapse" data-target='#div_pt1_9'>通过</button>
-        <div id='div_pt1_9' class="collapse">  -->
+        <button id='btn_ft1_9' type="button"  class="btn btn-xs collapsed" data-toggle="collapse" data-target='#div_ft1_9'>失败</button>
+        <div id='div_ft1_9' class="collapse">  -->
         <!-- 默认展开错误信息 -Findyou /  修复失败按钮的颜色 -- Gelomen -->
-        <button id='btn_pt1_9' type="button"  class="btn btn-xs" data-toggle="collapse" data-target='#div_pt1_9'>通过</button>
-        <div id='div_pt1_9' class="collapse in">
+        <button id='btn_ft1_9' type="button"  class="btn btn-xs" data-toggle="collapse" data-target='#div_ft1_9'>失败</button>
+        <div id='div_ft1_9' class="collapse in">
         <pre style="text-align:left">
         
-pt1_9: D:\Python\Study\venv\lib\site-packages\urllib3\connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fmapp-stage.chinafamilymart.com.cn'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+ft1_9: D:\Python\Study\venv\lib\site-packages\urllib3\connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fmapp-stage.chinafamilymart.com.cn'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
   warnings.warn(
+Traceback (most recent call last):
+  File "D:\Python\Study\venv\lib\site-packages\ddt.py", line 191, in wrapper
+    return func(self, *args, **kwargs)
+  File "D:\Python\Study\FmApp\TestExcute\TestCase.py", line 72, in test_miliExchange
+    raise e
+  File "D:\Python\Study\FmApp\TestExcute\TestCase.py", line 68, in test_miliExchange
+    self.assertEqual(eval(item["expect_result"])["code"], result["code"])
+AssertionError: '304200' != 102002
 
 
         </pre>
         </div>
         </td>
-        <td class='passCase' style="vertical-align: middle"></td>
+        <td class='failCase' style="vertical-align: middle"></td>
     </tr>
     
-    <tr id='pt1_10' class='hiddenRow'>
-        <td class='passCase' style="vertical-align: middle"><div class='testcase'>test_miliExchange_4</div></td>
+    <tr id='ft1_10' class='none'>
+        <td class='failCase' style="vertical-align: middle"><div class='testcase'>test_miliExchange_4</div></td>
         <td style="vertical-align: middle"></td>
         <td colspan='5' align='center'>
         <!--默认收起错误信息 -Findyou
-        <button id='btn_pt1_10' type="button"  class="btn btn-xs collapsed" data-toggle="collapse" data-target='#div_pt1_10'>通过</button>
-        <div id='div_pt1_10' class="collapse">  -->
+        <button id='btn_ft1_10' type="button"  class="btn btn-xs collapsed" data-toggle="collapse" data-target='#div_ft1_10'>失败</button>
+        <div id='div_ft1_10' class="collapse">  -->
         <!-- 默认展开错误信息 -Findyou /  修复失败按钮的颜色 -- Gelomen -->
-        <button id='btn_pt1_10' type="button"  class="btn btn-xs" data-toggle="collapse" data-target='#div_pt1_10'>通过</button>
-        <div id='div_pt1_10' class="collapse in">
+        <button id='btn_ft1_10' type="button"  class="btn btn-xs" data-toggle="collapse" data-target='#div_ft1_10'>失败</button>
+        <div id='div_ft1_10' class="collapse in">
         <pre style="text-align:left">
         
-pt1_10: D:\Python\Study\venv\lib\site-packages\urllib3\connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fmapp-stage.chinafamilymart.com.cn'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+ft1_10: D:\Python\Study\venv\lib\site-packages\urllib3\connectionpool.py:1013: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fmapp-stage.chinafamilymart.com.cn'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
   warnings.warn(
+Traceback (most recent call last):
+  File "D:\Python\Study\venv\lib\site-packages\ddt.py", line 191, in wrapper
+    return func(self, *args, **kwargs)
+  File "D:\Python\Study\FmApp\TestExcute\TestCase.py", line 72, in test_miliExchange
+    raise e
+  File "D:\Python\Study\FmApp\TestExcute\TestCase.py", line 68, in test_miliExchange
+    self.assertEqual(eval(item["expect_result"])["code"], result["code"])
+AssertionError: '304200' != 102002
 
 
         </pre>
         </div>
         </td>
-        <td class='passCase' style="vertical-align: middle"></td>
+        <td class='failCase' style="vertical-align: middle"></td>
     </tr>
     
 <tr id='total_row' class="text-center active">
     <td colspan='2'>总计</td>
     <td>10</td>
-    <td>8</td>
-    <td>2</td>
+    <td>5</td>
+    <td>5</td>
     <td>0</td>
-    <td>2.36秒</td>
-    <td>通过率：80.00%</td>
+    <td>5.26秒</td>
+    <td>通过率：50.00%</td>
 </tr>
 </table>
 

@@ -20,3 +20,8 @@
 2021-10-26 20:44:33,425 - INFO - D:\Python\Study\FmApp\Utils\Logger.py[line:34] - Logger.py - lyh - 日志信息: eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNo0TcttAjEQbSWa81rCnvEYuwMuHDj74s-sslEirTBICMSBHlJBCkgLqSYKZeAQcnv_d4KX3QQBFr5UTNqrDrwiW6vyuRRVCzpm0c7lDAO0fe7hU4R9k-06vUmEEOH6cXn6_rz8fL1HGP68Vb07VNlZj2SNXRAScqGltSwkli0yk6bRkTNOk8aK9d5P8_yod6TydIxw7t9Ta_37If3ytIOgGfu2MUszgBxmCGSM-xemtpFxK-0Zwphem5xvAAAA__8.82rv6VOliaMQfjBQ78rlZ51QefZP8t3zJfuvP95hFrDGnYYHAEtEM4dkpo2va6AWDdqYZT9QbToCa_owEEJAGA
 2021-10-26 20:44:33,847 - ERROR - D:\Python\Study\FmApp\Utils\Logger.py[line:38] - Logger.py - lyh - 日志信息: test_login执行不通过
 2021-10-26 20:44:34,488 - ERROR - D:\Python\Study\FmApp\Utils\Logger.py[line:38] - Logger.py - lyh - 日志信息: test_miliExchange执行不通过
+2022-02-22 22:12:06,830 - ERROR - D:\Python\Study\FmApp\Utils\Logger.py[line:38] - Logger.py - lyh - 日志信息: test_login执行不通过
+2022-02-22 22:12:07,530 - ERROR - D:\Python\Study\FmApp\Utils\Logger.py[line:38] - Logger.py - lyh - 日志信息: test_miliExchange执行不通过
+2022-02-22 22:12:07,625 - ERROR - D:\Python\Study\FmApp\Utils\Logger.py[line:38] - Logger.py - lyh - 日志信息: test_miliExchange执行不通过
+2022-02-22 22:12:07,710 - ERROR - D:\Python\Study\FmApp\Utils\Logger.py[line:38] - Logger.py - lyh - 日志信息: test_miliExchange执行不通过
+2022-02-22 22:12:07,810 - ERROR - D:\Python\Study\FmApp\Utils\Logger.py[line:38] - Logger.py - lyh - 日志信息: test_miliExchange执行不通过
