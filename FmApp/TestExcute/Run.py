@@ -12,6 +12,7 @@ loader = unittest.TestLoader()
 
 suit.addTest(loader.loadTestsFromTestCase(TestCase))
 
+
 with open(r"..\TestReport\login_report.html","wb") as file:
     runner = HTMLTestRunner.HTMLTestRunner(stream=file,verbosity=2,title="回归测试",tester="lyh")
     runner.run(suit)
